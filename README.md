@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-1. HTML: [Link] (https://github.com/osamaaabdullah/1-QR-code-challenge/blob/main/images/Solution%20Screenshot/HTML.png)
+1. HTML: [Link] (images/image-qr-code.png)
 2. CSS-SS-1: [Link] (https://github.com/osamaaabdullah/1-QR-code-challenge/blob/main/images/Solution%20Screenshot/CSS%201.png)
 3. CSS-SS-2: [Link] (https://github.com/osamaaabdullah/1-QR-code-challenge/blob/main/images/Solution%20Screenshot/CSS%202.png)
 

@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 3. CSS-SS-2 (/images/Solution Screenshot/CSS 2.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://osamaaabdullah.github.io/1-QR-code-challenge/)
+- Live Site URL: [QR-Code-Challenge](https://osamaaabdullah.github.io/1-QR-code-challenge/)
 
 ## My process
 When starting the project, I started designing the project for the web-layout first. My thought process was to use to use flexbox for responsiveness. I soon realized the problem on starting with a web-layout first, and had to restart the challenge starting with the mobile design first. For responsiveness, I used max-width and max-height for the containers and for the qr code image as well.

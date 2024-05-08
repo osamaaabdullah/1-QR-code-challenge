@@ -43,3 +43,4 @@ The important takeaway for me was to start from the mobile-layout first to deal 
 - Frontend Mentor - [@osamaaabdullah](https://www.frontendmentor.io/profile/osamaaabdullah)
 
 ## Acknowledgments
+[Meyer Web](https://meyerweb.com/eric/tools/css/reset/) for the CSS Reset code
